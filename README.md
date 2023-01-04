@@ -10,3 +10,7 @@
 - xyz
 
 [資展國際](https://www.ispan.com.tw)
+*italicized text* 把英文變斜體
+**bold** 粗體
+> 額外註釋
+
