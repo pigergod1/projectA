@@ -1,0 +1,4 @@
+bin/
+*.temp
+
+config.json
